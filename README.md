@@ -1,12 +1,13 @@
 # Basic-JavaScript-Projects
 Some Basic Javascript projects
 
-#Background Color Switcher
+
+#BMI Calculator
 <br/>
 https://basic-java-script-projects-divyagupta167.vercel.app/
 <br/>
 <br/>
-#BMI Calculator
+#Background Color Switcher
 <br/>
 https://basic-java-script-projects-yzjh-divyagupta167.vercel.app/
 <br/>
