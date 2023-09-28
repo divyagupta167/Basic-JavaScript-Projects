@@ -5,10 +5,15 @@ Some Basic Javascript projects
 <br/>
 https://basic-java-script-projects-divyagupta167.vercel.app/
 <br/>
+<br/>
 #BMI Calculator
+<br/>
+https://basic-java-script-projects-yzjh-divyagupta167.vercel.app/
 <br/>
 <br/>
 #Diplay Local TIme
+<br/>
+https://basic-java-script-projects-mqd1-divyagupta167.vercel.app/
 <br/>
 <br/>
 #Gues the Number
