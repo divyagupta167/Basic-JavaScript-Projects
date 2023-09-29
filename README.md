@@ -17,6 +17,3 @@ https://basic-java-script-projects-yzjh-divyagupta167.vercel.app/
 https://basic-java-script-projects-mqd1-divyagupta167.vercel.app/
 <br/>
 <br/>
-#Gues the Number
-<br/>
-<br/>
